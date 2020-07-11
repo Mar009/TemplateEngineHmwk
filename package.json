@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/Mar009/TemplateEngineHmwk#readme",
   "dependencies": {
-    "inquirer": "^7.3.0"
+    "inquirer": "^7.3.0",
+    "path": "^0.12.7"
   },
   "devDependencies": {
     "jest": "^26.1.0"
