@@ -17,7 +17,9 @@ A command line application that will generate a HTML file. This HTML file will s
   1- Run node app.js   2-Answer the questions    3-Profit
 
   ## Usage
-  N/A
+ ![](images/overallProcess.png)
+ 
+ ![](images/Result.png)
 
    ## License
   MIT
